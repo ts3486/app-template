@@ -1,0 +1,8 @@
+Goal of project is to create a social network system that includes usage of:
+
+- mySQL Database
+- Proper TypeScript (Avoid "any" as much as I can, Implement different tools of typescript)
+- Object Orineted Programming (Classes, encapsulation, inheritance, polymorphism)
+
+
+
